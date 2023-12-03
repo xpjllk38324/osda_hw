@@ -1,5 +1,5 @@
 # osda_hw
-big homework of Ordered Sets in Data Analysis(HSE MASTER 2023/2024)  
+big homework of Ordered Sets in Data Analysis(HSE MASTER 2023/2024)    
 from Xie Pujun(Се Пуцзюнь)  
 
 1.codes: the source codes of the big homework  
